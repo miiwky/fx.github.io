@@ -1,1 +1,12 @@
-{     "enableTrading": true,     "enableBuy": true,     "enableSell": false,     "lots": 0.01,     "gridLevels": 10,     "gridStep": 4000,     "gridTPStep": 500,     "gridLotMultiplier": 1.0,     "upperZone": 3801.00,     "lowerZone": 3200.00 }
+{
+  "enableTrading": true,
+  "enableBuy": true,
+  "enableSell": false,
+  "lots": 0.01,
+  "gridLevels": 10,
+  "gridStep": 4000,
+  "gridTPStep": 500,
+  "gridLotMultiplier": 1,
+  "upperZone": 3800,
+  "lowerZone": 3200
+}
